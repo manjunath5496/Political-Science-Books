@@ -1,6 +1,6 @@
 <ul>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(1).pdf" style="text-decoration:none;">A History of Western Political Thought</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(2).pdf" style="text-decoration:none;">The Decisive Battles of World History</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(1).pdf" style="text-decoration:none;">Competition and Cooperation in Social and Political Sciences </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(2).pdf" style="text-decoration:none;">The Collected Works of Eric Voegelin, Volume 5, Modernity without Restraint, The Political Religions; The New Science of Politics; and Science, Politics, and Gnosticism </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(3).pdf" style="text-decoration:none;">A Brief History of Time</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(4).pdf" style="text-decoration:none;">A Briefer History of Time </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(5).pdf" style="text-decoration:none;">A Critical History of Greek Philosophy </a></b></li>
