@@ -1,81 +1,52 @@
+
 <ul>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(1).pdf" style="text-decoration:none;">Competition and Cooperation in Social and Political Sciences </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(2).pdf" style="text-decoration:none;">The Collected Works of Eric Voegelin, Volume 5, Modernity without Restraint, The Political Religions; The New Science of Politics; and Science, Politics, and Gnosticism </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(3).pdf" style="text-decoration:none;">The Oxford Handbook of Comparative Politics</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(4).pdf" style="text-decoration:none;">A New Science of Politics </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(5).pdf" style="text-decoration:none;">Advances in Political Economy </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(6).pdf" style="text-decoration:none;">Political Science: An Introduction</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(7).pdf" style="text-decoration:none;">Politics in a Changing World: A Comparative Introduction to Political Science</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(1).pdf" style="text-decoration:none;">Competition and Cooperation in Social and Political Sciences </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(2).pdf" style="text-decoration:none;">The Collected Works of Eric Voegelin, Volume 5, Modernity without Restraint, The Political Religions; The New Science of Politics; and Science, Politics, and Gnosticism </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(3).pdf" style="text-decoration:none;">The Oxford Handbook of Comparative Politics</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(4).pdf" style="text-decoration:none;">A New Science of Politics </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(5).pdf" style="text-decoration:none;">Advances in Political Economy </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(6).pdf" style="text-decoration:none;">Political Science: An Introduction</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(7).pdf" style="text-decoration:none;">Politics in a Changing World: A Comparative Introduction to Political Science</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(8).pdf" style="text-decoration:none;">A New Handbook of Political Science</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(9).pdf" style="text-decoration:none;">Indian Polity</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(8).pdf" style="text-decoration:none;">A New Handbook of Political Science</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(9).pdf" style="text-decoration:none;">Indian Polity</a></b></li>
                                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(10).pdf" style="text-decoration:none;">The Oxford Handbook of Political Theory</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(11).pdf" style="text-decoration:none;">A History of Money: From Ancient Times to the Present Day </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(12).pdf" style="text-decoration:none;">A History of the World from the 20th to the 21st Century</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(13).pdf" style="text-decoration:none;">An Outline of the History of Economic Thought </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(14).pdf" style="text-decoration:none;">A Short History of the United States</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(10).pdf" style="text-decoration:none;">The Oxford Handbook of Political Theory</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(11).pdf" style="text-decoration:none;">Democratic Politics, II: Textbook in Political Science for Class X</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(12).pdf" style="text-decoration:none;">The Oxford Handbook of Public Policy</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(13).pdf" style="text-decoration:none;">Quantitative Research Methods for Political Science, Public Policy and Public Administration </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(14).pdf" style="text-decoration:none;">Understanding Political Science Statistics: Observations and Expectations in Political Analysis</a></b></li>  
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(15).pdf" style="text-decoration:none;">India and the Contemporary World - 2 </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(15).pdf" style="text-decoration:none;">Analyzing Politics: An Introduction to Political Science </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(16).pdf" style="text-decoration:none;"> A Concise History of Modern India</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(16).pdf" style="text-decoration:none;"> The Political Economy of Democracy</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(17).pdf" style="text-decoration:none;">Destiny Disrupted: A History of the World Through Islamic Eyes </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(18).pdf" style="text-decoration:none;">Big History: The Big Bang, Life on Earth, and the Rise of Humanity</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(17).pdf" style="text-decoration:none;">Political Science: The Science of Politics </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(18).pdf" style="text-decoration:none;">Public Administration and Political Science: An Historical Analysis of the Relation Between the Two Academic Disciplines</a></b></li>  
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(19).pdf" style="text-decoration:none;">The Secret History of Freemasonry: Its Origins and Connection to the Knights Templar</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(19).pdf" style="text-decoration:none;">Political Culture, Political Science, and Identity Politics: An Uneasy Alliance</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(20).pdf" style="text-decoration:none;">  Final Warning: A History of the New World Order</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(20).pdf" style="text-decoration:none;">  Politics and Society in Contemporary Spain: From Zapatero to Rajoy</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(21).pdf" style="text-decoration:none;">A people's history of the world </a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(21).pdf" style="text-decoration:none;">Political Theory</a></b></li> 
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(22).pdf" style="text-decoration:none;">History of Civilizations of Central Asia </a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(22).pdf" style="text-decoration:none;">In the Name of the Nation: Nationalism and Politics in Contemporary Russia </a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(23).pdf" style="text-decoration:none;"> A Concise History of Nazi Germany</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(23).pdf" style="text-decoration:none;"> Politics of Nature: How to Bring the Sciences Into Democracy</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(24).pdf" style="text-decoration:none;">A History of Mathematics </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(25).pdf" style="text-decoration:none;">Homo Deus: A Brief History of Tomorrow</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(24).pdf" style="text-decoration:none;">The Political Science of Syria's War </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(25).pdf" style="text-decoration:none;">Science, Politics and Business in the Work of Sir John Lubbock: A Man of Universal Mind</a></b></li>  
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(26).pdf" style="text-decoration:none;">India After Gandhi: The History of the World's Largest Democracy</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(26).pdf" style="text-decoration:none;">American Indian Politics and the American Political System</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(27).pdf" style="text-decoration:none;">  Islam at War: A History</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(27).pdf" style="text-decoration:none;">  A Game-Theoretic Approach to Political Economy</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(28).pdf" style="text-decoration:none;">Israel's History and the History of Israel  </a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(28).pdf" style="text-decoration:none;">Big Science Transformed: Science, Politics and Organization in Europe and the United States</a></b></li> 
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(29).pdf" style="text-decoration:none;">Jews and Judaism in World History </a></b></li> 
-
-
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(30).pdf" style="text-decoration:none;">Medieval India: From Sultanat to the Mughals- Mughal Empire (1526-1748) </a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(29).rar" style="text-decoration:none;">Love, Order, and Progress: The Science, Philosophy, and Politics of Auguste Comte </a></b></li> 
 
 
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(31).pdf" style="text-decoration:none;">Modern Indian History</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(32).pdf" style="text-decoration:none;">The Wealth of Ideas: A History of Economic Thought</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(33).pdf" style="text-decoration:none;">Sapiens: A Brief History of Humankind</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(34).pdf" style="text-decoration:none;">The 100: A Ranking of the Most Influential Persons in History </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(35).pdf" style="text-decoration:none;">The Encyclopedia of World History: Ancient, Medieval, and Modern </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(36).pdf" style="text-decoration:none;">The Gene: An Intimate History </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(37).pdf" style="text-decoration:none;">The History of Mathematics: A Brief Course</a></b></li>
-  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(38).pdf" style="text-decoration:none;">The Oxford History of World Cinema</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(39).pdf" style="text-decoration:none;">The Secret History of the World and How to Get Out Alive</a></b></li>
-                                
- <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(40).pdf" style="text-decoration:none;">The Sixth Extinction: An Unnatural History</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(41).pdf" style="text-decoration:none;">The War of the Worlds </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(42).pdf" style="text-decoration:none;">History Of The Decline And Fall Of The Roman Empire</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(43).pdf" style="text-decoration:none;">World History For Dummies</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(44).pdf" style="text-decoration:none;">Adolf Hitler and Joseph Stalin: Two Predator Leaders During The World War II</a></b></li>  
-  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(45).pdf" style="text-decoration:none;">Hitler's First War: Adolf Hitler, the Men of the List Regiment, and the First World War </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(46).pdf" style="text-decoration:none;"> With Hitler to the End: The Memoirs of Adolf Hitler's Valet</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(47).pdf" style="text-decoration:none;">Lying About Hitler: History, Holocaust, and the David Irving Trial </a></b></li>
-
-
-
-
-
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Political-Science-Books/blob/master/plt(30).rar" style="text-decoration:none;">The Oxford Handbook of Political Methodology</a></b></li> 
 
 
 
