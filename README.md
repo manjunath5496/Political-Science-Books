@@ -1,16 +1,16 @@
 <ul>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(1).pdf" style="text-decoration:none;">Competition and Cooperation in Social and Political Sciences </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(2).pdf" style="text-decoration:none;">The Collected Works of Eric Voegelin, Volume 5, Modernity without Restraint, The Political Religions; The New Science of Politics; and Science, Politics, and Gnosticism </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(3).pdf" style="text-decoration:none;">A Brief History of Time</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(4).pdf" style="text-decoration:none;">A Briefer History of Time </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(5).pdf" style="text-decoration:none;">A Critical History of Greek Philosophy </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(6).pdf" style="text-decoration:none;">A History of Christian Doctrine</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(7).pdf" style="text-decoration:none;">A History of Feminist Literary Criticism</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(3).pdf" style="text-decoration:none;">The Oxford Handbook of Comparative Politics</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(4).pdf" style="text-decoration:none;">A New Science of Politics </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(5).pdf" style="text-decoration:none;">Advances in Political Economy </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(6).pdf" style="text-decoration:none;">Political Science: An Introduction</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(7).pdf" style="text-decoration:none;">Politics in a Changing World: A Comparative Introduction to Political Science</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(8).pdf" style="text-decoration:none;">A Short History of China and Southeast Asia</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(9).pdf" style="text-decoration:none;">A Short History of Nearly Everything</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(8).pdf" style="text-decoration:none;">A New Handbook of Political Science</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(9).pdf" style="text-decoration:none;">Indian Polity</a></b></li>
                                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(10).pdf" style="text-decoration:none;">A Brief History of the World</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(10).pdf" style="text-decoration:none;">The Oxford Handbook of Political Theory</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(11).pdf" style="text-decoration:none;">A History of Money: From Ancient Times to the Present Day </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(12).pdf" style="text-decoration:none;">A History of the World from the 20th to the 21st Century</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/History-Books/blob/master/ht(13).pdf" style="text-decoration:none;">An Outline of the History of Economic Thought </a></b></li>
